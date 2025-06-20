@@ -1,0 +1,16 @@
+Date: 2025/06/20 19:38:08
+Age: 49
+Weight: 80 kg
+Height: 1,6 m
+BMI: 31,25
+Result: You are obese.
+Advice: Standard adult BMI interpretation applies.
+----------------------
+Date: 2025/06/20 19:45:48
+Age: 49
+Weight: 80 kg
+Height: 1,6 m
+BMI: 31,25
+Result: You are obese.
+Advice: Standard adult BMI interpretation applies.
+----------------------

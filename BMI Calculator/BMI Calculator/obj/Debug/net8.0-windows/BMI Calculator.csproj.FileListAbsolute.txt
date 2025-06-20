@@ -1,0 +1,19 @@
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.exe
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.deps.json
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.runtimeconfig.json
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.dll
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.pdb
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator_MarkupCompile.cache
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.g.resources
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.AssemblyInfoInputs.cache
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.AssemblyInfo.cs
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.dll
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\refint\BMI Calculator.dll
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.pdb
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.genruntimeconfig.cache
+C:\Users\Kenny\Desktop\BMIcalculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\ref\BMI Calculator.dll

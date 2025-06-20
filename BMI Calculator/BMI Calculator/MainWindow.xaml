@@ -1,0 +1,56 @@
+﻿<Window x:Class="BMI_Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BMI Calculator" Height="500" Width="400">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Title -->
+            <RowDefinition Height="Auto"/>
+            <!-- Input -->
+            <RowDefinition Height="Auto"/>
+            <!-- Calculate Button -->
+            <RowDefinition Height="Auto"/>
+            <!-- Result -->
+            <RowDefinition Height="Auto"/>
+            <!-- History Button -->
+            <RowDefinition Height="*"/>
+            <!-- Scrollable History -->
+        </Grid.RowDefinitions>
+
+        <!-- Title -->
+        <TextBlock Text="BMI Calculator" FontSize="24" FontWeight="Bold" 
+                   Margin="0 0 0 20" Grid.Row="0" HorizontalAlignment="Center"/>
+
+        <!-- Inputs (simplified for this view, add your TextBoxes here) -->
+        <!-- Example: -->
+        <StackPanel Grid.Row="1" Orientation="Vertical" Margin="0 0 0 10">
+            <TextBlock Text="Age:"/>
+            <TextBox x:Name="AgeInput"/>
+            <TextBlock Text="Weight (kg):"/>
+            <TextBox x:Name="WeightInput"/>
+            <TextBlock Text="Height (m):"/>
+            <TextBox x:Name="HeightInput"/>
+        </StackPanel>
+
+        <!-- Calculate Button -->
+        <Button Content="Calculate BMI" Grid.Row="2" Height="30" Margin="0 10 0 10" Click="CalculateBMI_Click"/>
+
+        <!-- Result -->
+        <StackPanel Grid.Row="3" Margin="0 10 0 10">
+            <TextBlock Text="Result:" FontWeight="Bold"/>
+            <TextBlock x:Name="ResultText" FontSize="16" Margin="0 5 0 0"/>
+            <TextBlock x:Name="AdviceText" Foreground="Gray" TextWrapping="Wrap" Margin="0 5 0 0"/>
+        </StackPanel>
+
+        <!-- Show History Button -->
+        <StackPanel Grid.Row="4" Margin="0 10 0 0">
+            <Button Content="Show BMI History" Click="ShowHistory_Click" Margin="0 5 0 5"/>
+        </StackPanel>
+
+        <!-- Scrollable History -->
+        <ScrollViewer Grid.Row="5" VerticalScrollBarVisibility="Auto">
+            <TextBlock x:Name="HistoryText" TextWrapping="Wrap" FontSize="12"/>
+        </ScrollViewer>
+    </Grid>
+</Window>
